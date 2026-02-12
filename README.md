@@ -76,8 +76,8 @@ The framework is intentionally general so it can be adapted to domain-specific c
     example_tree.py
     example_canopy.py
 
-/docs
-    Recursive3DGrowthModelTree_Morphology.pdf
+
+ / Recursive3DGrowthModelTree_Morphology.pdf
 
 /figures
     (optional visualizations)
@@ -87,3 +87,4 @@ The framework is intentionally general so it can be adapted to domain-specific c
 `
 
 ---
+
