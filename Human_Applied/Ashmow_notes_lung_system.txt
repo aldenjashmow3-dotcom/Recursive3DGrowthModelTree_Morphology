@@ -1,0 +1,32 @@
+Ashmow_notes:
+
+The bronchial system forms a branching architecture that resembles a reverse tree:  
+> a single origin (trachea) dividing repeatedly into smaller airwa[ Trachea ]
+                                │
+                ┌──────────────┴──────────────┐
+                │                               │
+        [ Right Main Bronchus ]        [ Left Main Bronchus ]
+                │                               │
+      ┌────────┼────────┐         ┌───────┴───────┐
+      │        │        │               │               │
+[ Upper ] [ Middle ] [ Lower ]   [ Upper Lobe ]   [ Lower Lobe ]
+  Lobe       Lobe       Lobe
+ Bronchus   Bronchus   Bronchus        (Lobar Bronchi)
+ (Lobar)    (Lobar)    (Lobar)
+      │        │        │               │               │
+      │        │        │               │               │
+   (Each divides into Segmental Bronchi — 8–10 per lung)
+      │        │        │               │               │
+      └────────┴────────┴───────────────┴───────────────┘
+                                │
+                        [ Subsegmental Bronchi ]
+                                │
+                        [ Bronchioles ]
+                                │
+                        [ Terminal Bronchioles ]
+                                │
+                        [ Respiratory Bronchioles ]
+                                │
+                        [ Alveolar Ducts ]
+                                │
+                        [ Alveoli (“Leaflets”) ]ys, ending in alveoli where gas exchange occurs
